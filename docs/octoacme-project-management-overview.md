@@ -44,3 +44,5 @@ Applies to all cross-functional projects that deliver product features, services
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
 - Add process-specific docs into `.copilot/` if you want Copilot Spaces to use them as context.
+- For team onboarding and role assignments, see [`docs/octoacme-roles-and-personas.md`](octoacme-roles-and-personas.md) for persona definitions and [`docs/templates/role-responsibility-template.md`](templates/role-responsibility-template.md) for the reusable role template.
+- Use [`docs/checklists/role-onboarding-checklist.md`](checklists/role-onboarding-checklist.md) whenever a new team member joins the project.
