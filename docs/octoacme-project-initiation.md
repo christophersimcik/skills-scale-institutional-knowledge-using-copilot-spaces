@@ -17,7 +17,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Stakeholder list & communication plan
 - High-level timeline and key milestones
 - Initial risk list
-- Resource needs (team roles, rough effort estimate)
+- Resource needs (team roles, rough effort estimate) — document each role using [`docs/templates/role-responsibility-template.md`](templates/role-responsibility-template.md)
 
 ## Project One-pager Template
 - Project name:
@@ -27,7 +27,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Primary stakeholders:
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
-- Proposed team / roles:
+- Proposed team / roles: _(use the [role-responsibility template](templates/role-responsibility-template.md) for each role — example: **Technical Lead:** Jane Doe — owns architecture decisions and ADRs)_
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
